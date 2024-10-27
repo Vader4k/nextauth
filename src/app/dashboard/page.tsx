@@ -1,11 +1,11 @@
 import React from 'react'
 
-const HomePage = () => {
+export default function Dashboard () {
   return (
     <div>
-      Home
+      Dashboard
     </div>
   )
 }
 
-export default HomePage
+
